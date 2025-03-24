@@ -6,7 +6,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI4MTIyMDEsIm5iZiI6MTc0MjgxMTkwMSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI0VDEwMjUwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIwYzJiNzVkYTcwNjczZTU5OTk5MzkwY2MzMDZlN2NhMzE2ZTExNTllOWNkYzUxYWE2YTcxMTdjOWQ4MzM0YWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Gyh3NdAlmi-Pv_YwXHFYrVs965xmjCjhsulk6DRwD54" width="600" height="300"/>
+  <img src="https://i.ibb.co/v4M2BNQf/IMG-9691.jpg" width="600" height="300"/>
 </div>
 
 ### :woman_technologist: About Me :
