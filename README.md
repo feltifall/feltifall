@@ -40,5 +40,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### :speech_balloon: Telegram :
+- [Write me on telegram](t.me/feltith)
+
+### :tv: Telegram Channel :
+- [Subscribe to our Telegram Channel](https://t.me/your-telegram-channel-link)
