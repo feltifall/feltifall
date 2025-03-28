@@ -6,7 +6,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://i.ibb.co/v4M2BNQf/IMG-9691.jpg" width="600" height="300"/>
+  <img src="https://i.pinimg.com/1200x/55/43/33/554333ea83ae2b3a0172038a3797449a.jpg" width="600" height="300"/>
 </div>
 
 ### :woman_technologist: About Me :
